@@ -14,8 +14,6 @@ There will be no lecture or tutorial on July 01 and July 02.
 
 * [How to use R in VS Code ](./lecture/l0/R in VS Code/R in VS Code.html)
 
-* Data: \
-
 
 **Please note:** Clicking on a notebook link no longer starts the download automatically. 
 Instead, hold the Alt key (or Option on Mac) and click the link to download the notebook directly.
