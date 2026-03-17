@@ -2,6 +2,8 @@
 
 **The first lecture will take place on April 15.**
 
+**The first tutorial will take place on April 23.**
+
 There will be no lecture or tutorial on July 01 and July 02.
 
 
