@@ -1,13 +1,13 @@
 # Lecture Slides and Tutorials
 
-The first lecture will take place on April 15.
+**The first lecture will take place on April 15.**
 
 There will be no lecture or tutorial on July 01 and July 02.
 
 
 
 ## Course 1: Lectures
-* [Lecture 0](./lecture/l0/L0.html) [pdf](./lecture/l0/L0.pdf)
+* **Lecture 0** [[html]](./lecture/l0/L0.html) [[pdf]](./lecture/l0/L0.pdf)
 
 
 ## Course 2: Tutorials
