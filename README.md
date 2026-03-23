@@ -6,6 +6,8 @@
 
 There will be no lecture or tutorial on July 01 and July 02.
 
+Jan Rabenseifner from Economic AI will give a guest lecture on July 15.
+
 
 
 ## Course 1: Lectures
