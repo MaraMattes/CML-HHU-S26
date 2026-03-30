@@ -12,8 +12,8 @@ Jan Rabenseifner from Economic AI will give a guest lecture on July 15.
 
 ## Course 1: Lectures
 * [Lecture 0](./lecture/l0/L0.html) [[pdf]](./lecture/l0/L0.pdf)
-* [Lecture 0](./lecture/l1/L1.html) [[pdf]](./lecture/l1/Lecture 1.pdf)
-* [Lecture 0](./lecture/l2/L2.html) [[pdf]](./lecture/l2/Lecture 2.pdf)
+* [Lecture 1](./lecture/l1/L1.html) [[pdf]](./lecture/l1/Lecture 1.pdf)
+* [Lecture 2](./lecture/l2/L2.html) [[pdf]](./lecture/l2/Lecture 2.pdf)
 
 
 ## Course 2: Tutorials
