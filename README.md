@@ -21,11 +21,6 @@ Jan Rabenseifner from Economic AI will give a guest lecture on July 15.
 * [How to use R in VS Code ](./lecture/l0/R in VS Code/R in VS Code.html)
 
 
-**Please note:** Clicking on a notebook link no longer starts the download automatically. 
-Instead, hold the Alt key (or Option on Mac) and click the link to download the notebook directly.
-Alternatively, just click the notebook link and then use right-click -> 'Save As...' to download the notebook manually.
-
-
 ### Tutorial 1
 
 * [Overfitting ](https://drive.google.com/file/d/1aiYl0OTab5OizA7mVhcWUsvV4p391y8C/view?usp=sharing)
