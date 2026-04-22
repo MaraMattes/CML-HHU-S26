@@ -21,6 +21,12 @@ Jan Rabenseifner from Economic AI will give a guest lecture on July 15.
 * [How to use R in VS Code ](./lecture/l0/R in VS Code/R in VS Code.html)
 
 
+* Data: \
+[wage2015_subsample_inference.rdata](./data/wage2015_subsample_inference.rdata)\
+[penn_jaedat.sec](./data/penn_jaedat.sec)\
+[gun_clean.csv](./data/gun_clean.csv)
+
+
 ### Tutorial 1
 
 * [Overfitting ](https://drive.google.com/file/d/1aiYl0OTab5OizA7mVhcWUsvV4p391y8C/view?usp=sharing)
