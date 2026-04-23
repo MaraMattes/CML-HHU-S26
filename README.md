@@ -30,5 +30,6 @@ Jan Rabenseifner from Economic AI will give a guest lecture on July 15.
 ### Tutorial 1
 
 * [Overfitting ](https://drive.google.com/file/d/1aiYl0OTab5OizA7mVhcWUsvV4p391y8C/view?usp=sharing)
+    - Solution: [Overfitting](https://colab.research.google.com/drive/1R6OLM_zPAXvqSAFBPR5N9kKKigjtVubM?usp=sharing)
 * [Linear Wage Prediction ](https://drive.google.com/file/d/1lvEb65tY0d0X_IngFwO2YxJwTciJvXAF/view?usp=sharing)
 * [Gender Pay Gap ](https://drive.google.com/file/d/1CcrhU86lnx_zRkaj-4a_VdD4lpB3kfji/view?usp=sharing)
