@@ -1,10 +1,10 @@
 # Lecture Slides and Tutorials
 
-**The first lecture will take place on April 15.**
+The first lecture will take place on April 15.
 
-**The first tutorial will take place on April 23.**
+The first tutorial will take place on April 23.
 
-There will be no lecture or tutorial on July 01 and July 02.
+**There will be no lecture or tutorial on July 01 and July 02.**
 
 Jan Rabenseifner from Economic AI will give a guest lecture on July 15.
 
@@ -14,6 +14,7 @@ Jan Rabenseifner from Economic AI will give a guest lecture on July 15.
 * [Lecture 0](./lecture/l0/L0.html) [[pdf]](./lecture/l0/L0.pdf)
 * [Lecture 1](./lecture/l1/L1.html) [[pdf]](./lecture/l1/Lecture 1.pdf)
 * [Lecture 2](./lecture/l2/L2.html) [[pdf]](./lecture/l2/Lecture 2.pdf)
+* [Lecture 3](./lecture/l3/L3.html) [[pdf]](./lecture/l3/Lecture 3.pdf)
 
 
 ## Course 2: Tutorials
