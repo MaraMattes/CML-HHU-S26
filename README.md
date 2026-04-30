@@ -33,4 +33,12 @@ Jan Rabenseifner from Economic AI will give a guest lecture on July 15.
 * [Overfitting ](https://drive.google.com/file/d/1aiYl0OTab5OizA7mVhcWUsvV4p391y8C/view?usp=sharing)
     - Solution: [Overfitting](https://colab.research.google.com/drive/1R6OLM_zPAXvqSAFBPR5N9kKKigjtVubM?usp=sharing)
 * [Linear Wage Prediction ](https://drive.google.com/file/d/1lvEb65tY0d0X_IngFwO2YxJwTciJvXAF/view?usp=sharing)
+    - Solution: [Linear Wage Prediction](https://colab.research.google.com/drive/16CHfw8EABSDJHm1sk8lZ7HwNCoY0bGom?usp=sharing)
 * [Gender Pay Gap ](https://drive.google.com/file/d/1CcrhU86lnx_zRkaj-4a_VdD4lpB3kfji/view?usp=sharing)
+    - Solution: [Gender Pay Gap](https://colab.research.google.com/drive/1FMZSWs7feKX4morVGDyNrOOjpJNi-r0D?usp=sharing)
+
+
+### Tutorial 2
+
+* [RCT Examples ](https://drive.google.com/file/d/1JH8fHKvlDcwUZ76iBO6mue4sJb0ixKmg/view?usp=sharing)
+* [Pennsylvania reemployment bonus experiment ](https://drive.google.com/file/d/1oZWXhKgISYtGGhuyvcxhryXHGtkIXcuU/view?usp=sharing)
