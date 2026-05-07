@@ -15,6 +15,7 @@ Jan Rabenseifner from Economic AI will give a guest lecture on July 15.
 * [Lecture 1](./lecture/l1/L1.html) [[pdf]](./lecture/l1/Lecture 1.pdf)
 * [Lecture 2](./lecture/l2/L2.html) [[pdf]](./lecture/l2/Lecture 2.pdf)
 * [Lecture 3](./lecture/l3/L3.html) [[pdf]](./lecture/l3/Lecture 3.pdf)
+* [Lecture 4](./lecture/l4/L4.html) [[pdf]](./lecture/l4/Lecture 4.pdf)
 
 
 ## Course 2: Tutorials
@@ -41,4 +42,12 @@ Jan Rabenseifner from Economic AI will give a guest lecture on July 15.
 ### Tutorial 2
 
 * [RCT Examples ](https://drive.google.com/file/d/1JH8fHKvlDcwUZ76iBO6mue4sJb0ixKmg/view?usp=sharing)
+    - Solution: [RCT Examples ](https://colab.research.google.com/drive/1JDvo3J7ReicbVGq6nFLOdz4LhdKv01-E?usp=sharing)
 * [Pennsylvania reemployment bonus experiment ](https://drive.google.com/file/d/1oZWXhKgISYtGGhuyvcxhryXHGtkIXcuU/view?usp=sharing)
+    - Solution: [Pennsylvania reemployment bonus experiment ](https://colab.research.google.com/drive/1Pv9pq3fND0f_YmgVJxdHjYEB035YHMIT?usp=sharing)
+
+### Tutorial 3
+
+* [Penalized Linear Regression ](https://drive.google.com/file/d/1Q-Y8kCxAgNc7_OMIPeP1Al1tIf4EKJaf/view?usp=sharing)
+* [ML-based Prediction of Wages ](https://drive.google.com/file/d/1JZvv_jRcivKMa8wtH1kpa73rxSEiezn6/view?usp=sharing)
+* [AutoML for Wage Prediction ](https://drive.google.com/file/d/19BXAPM6a6SHqmFuxTo18dDb2fW6Oto5x/view?usp=sharing)
