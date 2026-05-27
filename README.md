@@ -4,13 +4,13 @@ The first lecture will take place on April 15.
 
 The first tutorial will take place on April 23.
 
-**There will be no lecture or tutorial on May 20 and May 21!**
+There will be no lecture or tutorial on May 20 and May 21!
 
 **Alexandra Gibbon from Zalando will give a guest lecture during the first half of the lecture on June 03.**
 
 **There will be no lecture or tutorial on July 01 and July 02.**
 
-Dr. Jan Rabenseifner from Economic AI will give a guest lecture on July 15.
+**Dr. Jan Rabenseifner from Economic AI will give a guest lecture on July 15.**
 
 
 
