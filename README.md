@@ -55,4 +55,5 @@ There will be no lecture or tutorial on May 20 and May 21!
 
 * [Penalized Linear Regression ](https://drive.google.com/file/d/1Q-Y8kCxAgNc7_OMIPeP1Al1tIf4EKJaf/view?usp=sharing)
 * [ML-based Prediction of Wages ](https://drive.google.com/file/d/1JZvv_jRcivKMa8wtH1kpa73rxSEiezn6/view?usp=sharing)
+    - Solution: [ML-based Prediction of Wages ](https://colab.research.google.com/drive/1gl6jQmSp2h8Mo34OXUR_DYvbjZg7YLvQ?usp=sharing)
 * [AutoML for Wage Prediction ](https://drive.google.com/file/d/19BXAPM6a6SHqmFuxTo18dDb2fW6Oto5x/view?usp=sharing)
