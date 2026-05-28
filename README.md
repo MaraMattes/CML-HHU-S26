@@ -21,6 +21,7 @@ There will be no lecture or tutorial on May 20 and May 21!
 * [Lecture 3](./lecture/l3/L3.html) [[pdf]](./lecture/l3/Lecture 3.pdf)
 * [Lecture 4](./lecture/l4/L4.html) [[pdf]](./lecture/l4/Lecture 4.pdf)
 * [Lecture 5](./lecture/l5/L5.html) [[pdf]](./lecture/l5/Lecture 5.pdf)
+* [Lecture 6](./lecture/l6/L6.html) [[pdf]](./lecture/l6/Lecture 6.pdf)
 
 
 ## Course 2: Tutorials
@@ -57,3 +58,7 @@ There will be no lecture or tutorial on May 20 and May 21!
 * [ML-based Prediction of Wages ](https://drive.google.com/file/d/1JZvv_jRcivKMa8wtH1kpa73rxSEiezn6/view?usp=sharing)
     - Solution: [ML-based Prediction of Wages ](https://colab.research.google.com/drive/1gl6jQmSp2h8Mo34OXUR_DYvbjZg7YLvQ?usp=sharing)
 * [AutoML for Wage Prediction ](https://drive.google.com/file/d/19BXAPM6a6SHqmFuxTo18dDb2fW6Oto5x/view?usp=sharing)
+
+### Tutorial 4
+
+* [Convergence Hypothesis ](https://drive.google.com/file/d/1HOhouxT9joDw0kthmnKtJYoppT_gDex3/view?usp=sharing)
