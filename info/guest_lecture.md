@@ -37,7 +37,7 @@
 **Engineering blogs**
 
 * [Uber](https://www.uber.com/us/en/blog/engineering/)
-* [AirBbnb](https://airbnb.tech/)
+* [Airbnb](https://airbnb.tech/)
 * [Netflix](https://netflixtechblog.com/)
 
 
