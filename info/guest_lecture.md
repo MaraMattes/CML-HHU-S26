@@ -25,3 +25,23 @@
 * [Large-scale Price Optimization for an Online Fashion Retailer](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3748534) 
 * [Deep Learning based Forecasting: a case study from the online fashion industry](https://arxiv.org/abs/2305.14406) 
 * [Science of price experimentation at Amazon](https://assets.amazon.science/ba/f5/f761c2a04652a798704b5208cc60/science-of-price-experimentation-at-amazon.pdf) 
+
+
+**Online Courses**
+
+* Coursera
+* DataCamp
+* Udacity
+
+
+**Engineering blogs**
+
+* [Uber](https://www.uber.com/us/en/blog/engineering/)
+* [AirBbnb](https://airbnb.tech/)
+* [Netflix](https://netflixtechblog.com/)
+
+
+**Causal Inference books**
+
+* [Cunningham, S. (2021). Causal inference: The mixtape.](https://mixtape.scunning.com/)
+* Angrist, J. D., & Pischke, J. S. (2009). Mostly harmless econometrics: An empiricist's companion.
