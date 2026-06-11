@@ -22,7 +22,7 @@ Dr. Alexandra Gibbon from Zalando will give a guest lecture during the first hal
 * [Lecture 4](./lecture/l4/L4.html) [[pdf]](./lecture/l4/Lecture 4.pdf)
 * [Lecture 5](./lecture/l5/L5.html) [[pdf]](./lecture/l5/Lecture 5.pdf)
 * [Lecture 6](./lecture/l6/L6.html) [[pdf]](./lecture/l6/Lecture 6.pdf)
-
+* [Lecture 7](./lecture/l7/L7.html) [[pdf]](./lecture/l7/Lecture 7.pdf)
 
 ## Course 2: Tutorials
 
@@ -62,7 +62,17 @@ Dr. Alexandra Gibbon from Zalando will give a guest lecture during the first hal
 ### Tutorial 4
 
 * [Convergence Hypothesis ](https://drive.google.com/file/d/1HOhouxT9joDw0kthmnKtJYoppT_gDex3/view?usp=sharing)
+    - Solution: [Convergence Hypothesis ](https://colab.research.google.com/drive/1oZU-xYViyGVtQVgfhVxqtasCfNP9_pn8?usp=sharing)
 
 ### Tutorial 5
 
 * [Heterogeneity in the Wage Pay Gap ](https://colab.research.google.com/drive/1wr87MDF1qSRUbExb4zK_IpyJ1YPNMUPK?usp=sharing)
+    - Solution: [Heterogeneity in the Wage Pay Gap ](https://colab.research.google.com/drive/1YbKeB9Up-Pwwli6TxlIJFaX2g7Pm2gE6?usp=sharing)
+
+
+### Tutorial 6
+
+* [Collider Bias ](https://drive.google.com/file/d/14bPG9WC0rMAHwqnocQm4_5en2qwqC57P/view?usp=sharing)
+* [App: Collider Bias ](https://digitalcausalitylab.shinyapps.io/colliderbias/)
+* [App: Haircutter ](https://digitalcausalitylab.shinyapps.io/hairdresser_example/)
+* [App: Simpson's Paradox ](https://simpsons-paradox.herokuapp.com/)
