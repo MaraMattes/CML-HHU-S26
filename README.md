@@ -71,6 +71,7 @@ Dr. Alexandra Gibbon from Zalando will give a guest lecture during the first hal
 ### Tutorial 6
 
 * [Collider Bias ](https://drive.google.com/file/d/14bPG9WC0rMAHwqnocQm4_5en2qwqC57P/view?usp=sharing)
+    - Solution: [Collider Bias ](https://colab.research.google.com/drive/1Sq-A5KdnfnmmeZYBzz3JBH79m-kxJjvw?usp=sharing)
 * [App: Collider Bias ](https://digitalcausalitylab.shinyapps.io/colliderbias/)
 * [App: Haircutter ](https://digitalcausalitylab.shinyapps.io/hairdresser_example/)
 * [App: Simpson's Paradox ](https://simpsons-paradox.herokuapp.com/)
