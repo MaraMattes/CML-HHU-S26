@@ -21,6 +21,7 @@ Dr. Alexandra Gibbon from Zalando will give a guest lecture during the first hal
 * [Lecture 5](./lecture/l5/L5.html) [[pdf]](./lecture/l5/Lecture 5.pdf)
 * [Lecture 6](./lecture/l6/L6.html) [[pdf]](./lecture/l6/Lecture 6.pdf)
 * [Lecture 7](./lecture/l7/L7.html) [[pdf]](./lecture/l7/Lecture 7.pdf)
+* [Lecture 8](./lecture/l8/L8.html) [[pdf]](./lecture/l8/Lecture 8.pdf)
 
 ## Course 2: Tutorials
 
@@ -75,3 +76,9 @@ Dr. Alexandra Gibbon from Zalando will give a guest lecture during the first hal
 * [App: Collider Bias ](https://digitalcausalitylab.shinyapps.io/colliderbias/)
 * [App: Haircutter ](https://digitalcausalitylab.shinyapps.io/hairdresser_example/)
 * [App: Simpson's Paradox ](https://simpsons-paradox.herokuapp.com/)
+
+### Tutorial 7
+
+* [DML Gun Ownership Exercises ](https://colab.research.google.com/drive/1zQi_EQH75Gsfzl3SCfzKXF7lEWorcEVT)
+* [DML for 401(k) ](https://colab.research.google.com/drive/1igC4zlBokApk39IUBiGKpbCYmDlqE3Yl?usp=sharing)
+* [Identification 401(k) ](https://drive.google.com/file/d/10FNLvfr0rr58EKUTk8D8OisderIAl4ix/view?usp=sharing)
