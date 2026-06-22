@@ -10,4 +10,4 @@ Please also note that the **withdrawal deadline** for the exam (regardless of wh
 
 ## Booking of time slots
 
-Please book your oral exam time slot for the **first examination date** (August 03/04) here: Booking system link will follow soon
+Please book your oral exam time slot for the **first examination date** (August 03/04) here: Booking system link will follow soon 
