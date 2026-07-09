@@ -2,13 +2,9 @@
 
 Dr. Alexandra Gibbon from Zalando will give a guest lecture during the first half of the lecture on June 03.
 
-**There will be no tutorial on June 25.**
-
-**There will be no lecture or tutorial on July 1 and July 2.**
-
 **Dr. Jan Rabenseifner from Economic AI will give a guest lecture on July 15.**
 
-**On July 16, the tutorial will likely be replaced by a lecture.**
+**On July 16, the tutorial will be replaced by a lecture.**
 
 
 
