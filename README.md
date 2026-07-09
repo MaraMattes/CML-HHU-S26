@@ -76,5 +76,6 @@ Dr. Alexandra Gibbon from Zalando will give a guest lecture during the first hal
 ### Tutorial 7
 
 * [DML Gun Ownership Exercises ](https://colab.research.google.com/drive/1zQi_EQH75Gsfzl3SCfzKXF7lEWorcEVT)
+    - Solution: [DML Gun Ownership Exercises ](https://colab.research.google.com/drive/1A3ypApYxcfEl0xkSqhox2exRqXiGn-7a)
 * [DML for 401(k) ](https://colab.research.google.com/drive/1igC4zlBokApk39IUBiGKpbCYmDlqE3Yl?usp=sharing)
 * [Identification 401(k) ](https://drive.google.com/file/d/10FNLvfr0rr58EKUTk8D8OisderIAl4ix/view?usp=sharing)
