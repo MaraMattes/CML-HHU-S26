@@ -6,6 +6,8 @@ Dr. Alexandra Gibbon from Zalando will give a guest lecture during the first hal
 
 **On July 16, the tutorial will be replaced by a lecture.**
 
+**There will be no tutorial on July 23.**
+
 
 
 ## Course 1: Lectures
