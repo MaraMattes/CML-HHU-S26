@@ -20,7 +20,7 @@ Dr. Alexandra Gibbon from Zalando will give a guest lecture during the first hal
 * [Lecture 6](./lecture/l6/L6.html) [[pdf]](./lecture/l6/Lecture 6.pdf)
 * [Lecture 7](./lecture/l7/L7.html) [[pdf]](./lecture/l7/Lecture 7.pdf)
 * [Lecture 8](./lecture/l8/L8.html) [[pdf]](./lecture/l8/Lecture 8.pdf)
-* [Lecture 8](./lecture/l9/DiD_new.html) [[pdf]](./lecture/l9/Lecture 9.pdf)
+* [Lecture 9](./lecture/l9/DiD_new.html) [[pdf]](./lecture/l9/Lecture 9.pdf)
 * [Guest Lecture](https://trainings.doubleml.org/trainings_materials/2026_dice_presentation/presentations/2026_dice_seminar/hte_dml_lecture_v2.html#/title-slide)
 
 ## Course 2: Tutorials
