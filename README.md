@@ -4,11 +4,6 @@ Dr. Alexandra Gibbon from Zalando will give a guest lecture during the first hal
 
 Dr. Jan Rabenseifner from Economic AI will give a guest lecture on July 15.
 
-On July 16, the tutorial will be replaced by a lecture.
-
-**There will be no tutorial on July 23.**
-
-
 
 ## Course 1: Lectures
 * [Lecture 0](./lecture/l0/L0.html) [[pdf]](./lecture/l0/L0.pdf)
